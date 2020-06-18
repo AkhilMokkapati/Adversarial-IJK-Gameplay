@@ -14,8 +14,11 @@ This has two variants, deterministic and non-deterministic.
 - The major task of this assignment is to write a smart enough AI which can beat a human or any other AI.
 
 Initial State - 6X6 board with one 'A'
+
 State space - All boards with any of A to K letters (lower case or upper cae)
+
 Successor Function - Gives the board which is effected by one of the four moves (L, R, U, D)
+
 Goal State - Two cases - a board with one 'K' or 'k', other case is fully filled board (player with the higher letter case will win)
 
 2. Solving the deterministic case:
