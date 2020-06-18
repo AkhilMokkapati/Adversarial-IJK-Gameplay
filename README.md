@@ -1,8 +1,10 @@
 # Assignment 2 Report
 
 ### Part 1: IJK
-1. What is the game about:
-This is a two player fully observable game which is similar to 2048 game and has four possible moves - (Up, Down, Left, Right). Pairs of letters that are same, and adjacent to each other, in the direction of the movement are combined together to create a single tile of subsequent letter. 
+#### 1. What is the game about:
+
+#### This is a two player fully observable game which is similar to 2048 game and has four possible moves - (Up, Down, Left, Right). Pairs of letters that are same, and adjacent to each other, in the direction of the movement are combined together to create a single tile of subsequent letter. 
+
 - Ex- A + a -> B(if the move is made by + player)
 - Ex - A + a -> b (if the move is made by - player)
 
